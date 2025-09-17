@@ -1,9 +1,314 @@
 {
   "reward": [
     {
-      "date": "",
-      "title": "",
-      "url": ""
+      "date": "16 Sep 2025",
+      "title": "50 Rolls",
+      "url": "https://rewards.dicedreams.com/?handler=reward&link=musiclchallenge160925"
+    },
+    {
+      "date": "16 Sep 2025",
+      "title": "50 Rolls",
+      "url": "https://rewards.dicedreams.com/?handler=reward&link=diamondmission160925"
+    },
+    {
+      "date": "15 Sep 2025",
+      "title": "50 Rolls",
+      "url": "https://rewards.dicedreams.com/?handler=reward&link=aztecoinchallenge150925"
+    },
+    {
+      "date": "14 Sep 2025",
+      "title": "50 Rolls",
+      "url": "https://rewards.dicedreams.com/?handler=reward&link=pixielastday140925"
+    },
+    {
+      "date": "14 Sep 2025",
+      "title": "50 Rolls",
+      "url": "https://rewards.dicedreams.com/?handler=reward&link=crosswordchallenge140925"
+    },
+    {
+      "date": "13 Sep 2025",
+      "title": "50 Rolls",
+      "url": "https://rewards-v2.dicedreams.com/?handler=reward&link=Community13092025"
+    },
+    {
+      "date": "13 Sep 2025",
+      "title": "50 Rolls",
+      "url": "https://rewards-v2.dicedreams.com/?handler=reward&link=BroadcastCommunity13092025"
+    },
+    {
+      "date": "12 Sep 2025",
+      "title": "50 Rolls",
+      "url": "https://rewards-v2.dicedreams.com/?handler=reward&link=Community12092025"
+    },
+    {
+      "date": "12 Sep 2025",
+      "title": "50 Rolls",
+      "url": "https://rewards-v2.dicedreams.com/?handler=reward&link=BroadcastCommunity12092025"
+    },
+    {
+      "date": "11 Sep 2025",
+      "title": "50 Rolls",
+      "url": "https://rewards-v2.dicedreams.com/?handler=reward&link=Community11092025story"
+    },
+    {
+      "date": "11 Sep 2025",
+      "title": "50 Rolls",
+      "url": "https://rewards-v2.dicedreams.com/?handler=reward&link=Community110925"
+    },
+    {
+      "date": "10 Sep 2025",
+      "title": "50 Rolls",
+      "url": "https://rewards.dicedreams.com/?handler=reward&link=Goldentrade100925"
+    },
+    {
+      "date": "10 Sep 2025",
+      "title": "50 Rolls",
+      "url": "https://rewards.dicedreams.com/?handler=reward&link=goldentradebroadcast100925"
+    },
+    {
+      "date": "09 Sep 2025",
+      "title": "50 Rolls",
+      "url": "https://rewards.dicedreams.com/?handler=reward&link=Musicaltrail090925"
+    },
+    {
+      "date": "09 Sep 2025",
+      "title": "50 Rolls",
+      "url": "https://rewards.dicedreams.com/?handler=reward&link=Spotthediffernece090925"
+    },
+    {
+      "date": "08 Sep 2025",
+      "title": "50 Rolls",
+      "url": "https://rewards-v2.dicedreams.com/?handler=reward&link=Community080925"
+    },
+    {
+      "date": "08 Sep 2025",
+      "title": "50 Rolls",
+      "url": "https://rewards-v2.dicedreams.com/?handler=reward&link=BroadcastCommunity080925TYU"
+    },
+    {
+      "date": "07 Sep 2025",
+      "title": "50 Rolls",
+      "url": "https://rewards-v2.dicedreams.com/?handler=reward&link=Community070925"
+    },
+    {
+      "date": "07 Sep 2025",
+      "title": "50 Rolls",
+      "url": "https://rewards-v2.dicedreams.com/?handler=reward&link=BroadcastCommunity070925"
+    },
+    {
+      "date": "06 Sep 2025",
+      "title": "50 Rolls",
+      "url": "https://rewards-v2.dicedreams.com/?handler=reward&link=Community060925"
+    },
+    {
+      "date": "06 Sep 2025",
+      "title": "50 Rolls",
+      "url": "https://rewards-v2.dicedreams.com/?handler=reward&link=BroadcastCommunity060925"
+    },
+    {
+      "date": "05 Sep 2025",
+      "title": "50 Rolls",
+      "url": "https://rewards-v2.dicedreams.com/?handler=reward&link=Community050925"
+    },
+    {
+      "date": "05 Sep 2025",
+      "title": "50 Rolls",
+      "url": "https://rewards-v2.dicedreams.com/?handler=reward&link=BroadcastCommunity050925"
+    },
+    {
+      "date": "04 Sep 2025",
+      "title": "50 Rolls",
+      "url": "https://rewards-v2.dicedreams.com/?handler=reward&link=Community040925"
+    },
+    {
+      "date": "04 Sep 2025",
+      "title": "50 Rolls",
+      "url": "https://rewards-v2.dicedreams.com/?handler=reward&link=BroadcastCommunity040925"
+    },
+    {
+      "date": "03 Sep 2025",
+      "title": "50 Rolls",
+      "url": "https://rewards-v2.dicedreams.com/?handler=reward&link=Community030925"
+    },
+    {
+      "date": "03 Sep 2025",
+      "title": "50 Rolls",
+      "url": "https://rewards-v2.dicedreams.com/?handler=reward&link=BroadcastCommunity030925TYU"
+    },
+    {
+      "date": "03 Sep 2025",
+      "title": "50 Rolls",
+      "url": "https://rewards-v2.dicedreams.com/?handler=reward&link=Community030925story"
+    },
+    {
+      "date": "02 Sep 2025",
+      "title": "50 Rolls",
+      "url": "https://rewards-v2.dicedreams.com/?handler=reward&link=BroadcastCommunity020925"
+    },
+    {
+      "date": "02 Sep 2025",
+      "title": "50 Rolls",
+      "url": "https://rewards-v2.dicedreams.com/?handler=reward&link=BroadcastCommunity020925OP"
+    },
+    {
+      "date": "01 Sep 2025",
+      "title": "50 Rolls",
+      "url": "https://rewards-v2.dicedreams.com/?handler=reward&link=BroadcastCommunity010925UIPO"
+    },
+    {
+      "date": "31 Aug 2025",
+      "title": "50 Rolls",
+      "url": "https://rewards-v2.dicedreams.com/?handler=reward&link=Community310825story"
+    },
+    {
+      "date": "31 Aug 2025",
+      "title": "50 Rolls",
+      "url": "https://rewards-v2.dicedreams.com/?handler=reward&link=Community310825"
+    },
+    {
+      "date": "30 Aug 2025",
+      "title": "50 Rolls",
+      "url": "https://rewards-v2.dicedreams.com/?handler=reward&link=Community300825"
+    },
+    {
+      "date": "30 Aug 2025",
+      "title": "50 Rolls",
+      "url": "https://rewards-v2.dicedreams.com/?handler=reward&link=BroadcastCommunity300825"
+    },
+    {
+      "date": "29 Aug 2025",
+      "title": "50 Rolls",
+      "url": "https://rewards-v2.dicedreams.com/?handler=reward&link=Community290825"
+    },
+    {
+      "date": "29 Aug 2025",
+      "title": "50 Rolls",
+      "url": "https://rewards-v2.dicedreams.com/?handler=reward&link=BroadcastCommunity290825"
+    },
+    {
+      "date": "28 Aug 2025",
+      "title": "50 Rolls",
+      "url": "https://rewards-v2.dicedreams.com/?handler=reward&link=BroadcastCommunity280825"
+    },
+    {
+      "date": "28 Aug 2025",
+      "title": "50 Rolls",
+      "url": "https://rewards-v2.dicedreams.com/?handler=reward&link=Community280825"
+    },
+    {
+      "date": "27 Aug 2025",
+      "title": "50 Rolls",
+      "url": "https://rewards-v2.dicedreams.com/?handler=reward&link=Community27082025"
+    },
+    {
+      "date": "27 Aug 2025",
+      "title": "50 Rolls",
+      "url": "https://rewards-v2.dicedreams.com/?handler=reward&link=BroadcastCommunity27082025"
+    },
+    {
+      "date": "26 Aug 2025",
+      "title": "50 Rolls",
+      "url": "https://rewards-v2.dicedreams.com/?handler=reward&link=BroadcastCommunity26082025"
+    },
+    {
+      "date": "26 Aug 2025",
+      "title": "50 Rolls",
+      "url": "https://rewards-v2.dicedreams.com/?handler=reward&link=Community26082025"
+    },
+    {
+      "date": "25 Aug 2025",
+      "title": "50 Rolls",
+      "url": "https://rewards-v2.dicedreams.com/?handler=reward&link=BroadcastCommunity25082025"
+    },
+    {
+      "date": "25 Aug 2025",
+      "title": "50 Rolls",
+      "url": "https://rewards-v2.dicedreams.com/?handler=reward&link=Community250825"
+    },
+    {
+      "date": "24 Aug 2025",
+      "title": "50 Rolls",
+      "url": "https://rewards-v2.dicedreams.com/?handler=reward&link=BroadcastCommunity240825"
+    },
+    {
+      "date": "24 Aug 2025",
+      "title": "50 Rolls",
+      "url": "https://rewards-v2.dicedreams.com/?handler=reward&link=Community240825"
+    },
+    {
+      "date": "23 Aug 2025",
+      "title": "50 Rolls",
+      "url": "https://rewards-v2.dicedreams.com/?handler=reward&link=Community230825"
+    },
+    {
+      "date": "23 Aug 2025",
+      "title": "50 Rolls",
+      "url": "https://rewards-v2.dicedreams.com/?handler=reward&link=BroadcastCommunity230825"
+    },
+    {
+      "date": "22 Aug 2025",
+      "title": "50 Rolls",
+      "url": "https://rewards-v2.dicedreams.com/?handler=reward&link=BroadcastCommunity220825"
+    },
+    {
+      "date": "22 Aug 2025",
+      "title": "50 Rolls",
+      "url": "https://rewards-v2.dicedreams.com/?handler=reward&link=Community220825"
+    },
+    {
+      "date": "21 Aug 2025",
+      "title": "50 Rolls",
+      "url": "https://rewards-v2.dicedreams.com/?handler=reward&link=Community210825story"
+    },
+    {
+      "date": "21 Aug 2025",
+      "title": "50 Rolls",
+      "url": "https://rewards-v2.dicedreams.com/?handler=reward&link=Community210825"
+    },
+    {
+      "date": "21 Aug 2025",
+      "title": "50 Rolls",
+      "url": "https://rewards-v2.dicedreams.com/?handler=reward&link=BroadcastCommunity210825"
+    },
+    {
+      "date": "20 Aug 2025",
+      "title": "50 Rolls",
+      "url": "https://rewards-v2.dicedreams.com/?handler=reward&link=Community19082025"
+    },
+    {
+      "date": "20 Aug 2025",
+      "title": "50 Rolls",
+      "url": "https://rewards-v2.dicedreams.com/?handler=reward&link=Community20082025"
+    },
+    {
+      "date": "20 Aug 2025",
+      "title": "50 Rolls",
+      "url": "https://rewards-v2.dicedreams.com/?handler=reward&link=BroadcastCommunity200825"
+    },
+    {
+      "date": "19 Aug 2025",
+      "title": "50 Rolls",
+      "url": "https://rewards-v2.dicedreams.com/?handler=reward&link=BroadcastCommunity190825"
+    },
+    {
+      "date": "18 Aug 2025",
+      "title": "50 Rolls",
+      "url": "https://rewards-v2.dicedreams.com/?handler=reward&link=BroadcastCommunity180825"
+    },
+    {
+      "date": "18 Aug 2025",
+      "title": "50 Rolls",
+      "url": "https://rewards-v2.dicedreams.com/?handler=reward&link=Community180825"
+    },
+    {
+      "date": "14 Aug 2025",
+      "title": "50 Rolls",
+      "url": "https://rewards.dicedreams.com/?handler=reward&link=Community170825"
+    },
+    {
+      "date": "14 Aug 2025",
+      "title": "50 Rolls",
+      "url": "https://rewards.dicedreams.com/?handler=reward&link=Community160825"
     }
   ]
 }
